@@ -2,7 +2,7 @@
 
 
 
-# SNAP - Standards for NFTs and Payments
+# SNAP - **S**tandards for **N**FTs **A**nd **P**ayments
 A new messaging standard for NFT creator fee payments across all NFT marketplaces
 
 ## Summary
