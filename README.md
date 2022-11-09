@@ -1,8 +1,6 @@
 # SNAP Standards for NFTs and Payments
 A new messaging standard for NFT creator fee payments across all NFT marketplaces
 
-# Implementation of EIP-2981: NFT Royalty Standard 
-
 ## Summary
 SNAP is an implementation of the [EIP 2981 Royalty Standard](https://eips.ethereum.org/EIPS/eip-2981) for retrieving so-called "royalty" payment information for Non-Fungible Tokens (NFTs). SNAP's goal is to create a system-wide, voluntary messaging framework that pays creators a percentage of each sale on secondary markets. Often, this percentage is mistakely referred to as a "royalty" payment. Because royalties are paid on usage of IP rights, whereas creator "royalties" are only incurred upon sale, a more accurate descriptive term is a "Creator Fee in Perpetuity" ("CFIP"). Going forward, we will refer to creator "royalty" as the CFIP, and encourage other marketplaces to adopt the same terminology.
 
