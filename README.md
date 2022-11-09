@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/11615936/200727236-ff859233-8200-425d-a2e2-7df6883f927a.png)
+
+
+
 # SNAP Standards for NFTs and Payments
 A new messaging standard for NFT creator fee payments across all NFT marketplaces
 
